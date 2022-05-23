@@ -1,4 +1,8 @@
 # alternate uppercase and lowercase letters solution by gaurav nv
+
+# the program should print alternate uppercase and lowercase by given pair value
+# if 2 is the pair value then program prints 2 uppercase letters and then 2 lowercase letters alternatively
+# till the input string has no uppercase and lowercase letters left
 # i/p string = NoteBOOkPaper
 # i/p pair = 2
 # o/p N B o t O O e k a p e r
