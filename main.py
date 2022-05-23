@@ -1,4 +1,4 @@
-#alternate uppercase and lowercase letters solution by gaurav nv
+# alternate uppercase and lowercase letters solution by gaurav nv
 # i/p string = NoteBOOkPaper
 # i/p pair = 2
 # o/p N B o t O O e k a p e r
